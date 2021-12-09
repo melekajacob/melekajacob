@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, JavaScript, TypeScript, AWS Serverless**
 
-- 📫 How to reach me **jacob.meleka01@gmail.com**
+- 📫 How to reach me: **jacob.meleka01@gmail.com**
 
 - ⚡ Fun fact: **Currently learning Arabic 😩**
 
