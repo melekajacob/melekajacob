@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Jacob</h1>
+<h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">Fullstack Engineer at American Express</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melekajacob&label=Profile%20views&color=0e75b6&style=flat" alt="melekajacob" /> </p>
