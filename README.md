@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">Fullstack Engineer at American Express</h3>
+<h3 align="center">SWE Intern at Bloomberg L.P.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melekajacob&label=Profile%20views&color=0e75b6&style=flat" alt="melekajacob" /> </p>
 
@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **AWS, Tensorflow, Keras**
 
 - 👨‍💻 All of my projects are available at [https://github.com/melekajacob](https://github.com/melekajacob)
-
-- 📝 I (try to) write articles on [https://medium.com/@jacob.meleka01](https://medium.com/@jacob.meleka01)
 
 - 💬 Ask me about **React, JavaScript, TypeScript, AWS Serverless**
 
