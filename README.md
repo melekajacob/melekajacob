@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">SWE Intern at Bloomberg L.P.</h3>
+<h3 align="center">SWE Intern at Cruise</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melekajacob&label=Profile%20views&color=0e75b6&style=flat" alt="melekajacob" /> </p>
 
 - 🔭 I’m currently working on [ExamVault](https://github.com/melekajacob/ExamVault)
 
-- 🌱 I’m currently learning **AWS, Tensorflow, Keras**
+- 🌱 I’m currently learning **Golang, Kubernetes, Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/melekajacob](https://github.com/melekajacob)
 
-- 💬 Ask me about **React, JavaScript, TypeScript, AWS Serverless**
-
 - 📫 How to reach me: **jacob.meleka01@gmail.com**
-
-- ⚡ Fun fact: **Currently learning Arabic 😩**
 
 <h3 align="left">Check out my projects:</h3>
 <a href="https://github.com/melekajacob/HealthNet" target="blank"><img align="center" src="https://user-images.githubusercontent.com/23385706/145438703-076be1fc-1ae5-4f23-95aa-3da51cf79d33.png" alt="jacob-meleka"/> <span>HealthNet: Improved Electronic Health Record System</span></a>
