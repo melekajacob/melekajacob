@@ -21,10 +21,3 @@
 <a href="https://github.com/melekajacob/PhotoelectricEffect" target="blank"><img align="center" src="https://user-images.githubusercontent.com/23385706/145441578-060c2479-bddf-4d54-a721-330992642034.png" alt="jacob-meleka"/> <span>Einstein's Photoelectric Effect Interactive Simulator</span></a>
 <p></p>
 <a href="https://github.com/melekajacob/weather-extension" target="blank"><img align="center" src="https://user-images.githubusercontent.com/23385706/145442063-673da2ae-49bb-4113-950d-0e32293bd82a.png" alt="jacob-meleka"/> <span>Weather Tracker Chrome Extension</span></a>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jacob-meleka" target="blank">
-</p>
-
