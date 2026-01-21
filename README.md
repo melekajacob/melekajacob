@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melekajacob&label=Profile%20views&color=0e75b6&style=flat" alt="melekajacob" /> </p>
 
-- 🔭 I’m currently working on [ExamVault](https://github.com/melekajacob/ExamVault)
-
-- 🌱 I’m currently learning **Golang, Kubernetes, Next.js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/melekajacob](https://github.com/melekajacob)
 
 - 📫 How to reach me: **jacob.meleka01@gmail.com**
