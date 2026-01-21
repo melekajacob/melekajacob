@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">SWE Intern at Cruise</h3>
+<h3 align="center">SWE at Bloomberg L.P.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melekajacob&label=Profile%20views&color=0e75b6&style=flat" alt="melekajacob" /> </p>
 
